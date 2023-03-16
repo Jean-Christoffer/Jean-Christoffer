@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
 <h3 align="center">Studying Front-end development</h3>
 
-- 📄 About me **I used to work as a social worker but decided to take a leap into programming, which has turned into a passion.**
-
 - 🌱 I’m currently learning **JavaScript, TypeScript & React**
 
 <h3 align="left">Connect with me:</h3>

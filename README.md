@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
-<h3 align="center">Studying Front-end development</h3>
+<h3 align="center">Frontend developer</h3>
 
 - 🌱 I’m currently learning:
 - React

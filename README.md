@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
 <h3 align="center">Frontend developer</h3>
 
+🌍  Based in Oslo
+
 🌱 I’m currently learning:
 - React
 - Three.js

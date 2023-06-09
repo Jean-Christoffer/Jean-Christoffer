@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
 <h3 align="center">Frontend developer</h3>
 
-:question: Used to be a Social worker, now found a new passion in coding
+:question: I used to be a social worker but have now discovered a new passion for coding.
+
 🌍  Based in Oslo
 
 🌱 I’m currently learning:

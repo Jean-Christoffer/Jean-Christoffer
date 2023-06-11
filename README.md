@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/jean-christoffer-dahl-7b7552260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-christoffer-dahl-7b7552260" height="30" width="40" /></a>
 </p>
 
-<h4 align="left"><a href="https://portfolio-main-mauve.vercel.app/projects>jean.dev</a></h4>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

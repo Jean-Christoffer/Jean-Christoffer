@@ -6,9 +6,9 @@
 🌍  Based in Oslo
 
 🌱 I’m currently learning:
-- React
+- Next.js
 - Three.js
-- Svelte
+- SvelteKit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
